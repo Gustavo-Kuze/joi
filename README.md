@@ -1,3 +1,18 @@
+# pt-br
+Todas as mensagens de retorno da biblioteca foram traduzidas para Português brasileiro nesse fork.
+
+Como usar em seu projeto:
+```
+yarn add https://github.com/Gustavo-Kuze/joi.git
+
+ou
+
+npm install https://github.com/Gustavo-Kuze/joi.git
+```
+
+**NOTA**: No momento da tradução o Joi está na versão 17.1.0. Se você precisa que a lib seja atualizada, sinta-se à vontade para abrir um pull request com a ultima versão do @hapi/joi e as devidas traduções.
+
+## Original README file 👇
 <a href="https://hapi.dev"><img src="https://raw.githubusercontent.com/hapijs/assets/master/images/family.png" width="180px" align="right" /></a>
 
 # @hapi/joi
